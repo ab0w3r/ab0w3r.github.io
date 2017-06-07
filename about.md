@@ -5,11 +5,14 @@ permalink: /about/
 ---
 
 Some information about you!
+I play rugby for wasps, Amershan and Chiltern and my school team.
 
 summer blog
 
 A place to include any other types of information that you'd like to include about yourself.
 
-### Contact me
+### 07713 697122
 
-[email@domain.com](mailto:email@domain.com)
+(alex.bower@challoners.org)
+
+
