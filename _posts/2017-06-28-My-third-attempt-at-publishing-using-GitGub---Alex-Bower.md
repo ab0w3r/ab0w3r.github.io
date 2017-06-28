@@ -3,7 +3,7 @@ title: My third attempt at publishing using GitGub - Alex Bower
 layout: post
 author: alex.bower
 permalink: /my-third-attempt-at-publishing-using-gitgub---alex-bower/
-source-id: 1R1vjoc0nwpvHS4dhwYvGZsUiSjvK88ZDI6VjL-738Z4
+source-id: 1m6DGYA55N2eYwLC-PHHsZMsNfQ2QHlD5jS9NgpvSPaQ
 published: true
 ---
 <table>
@@ -23,12 +23,12 @@ published: true
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To start a python page that converts measurements from english to metric.</td>
+    <td>To create a python page that converts measurements from english to metric.</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td>I completed the task because i finished my page.</td>
+    <td>I think I did a good job at starting it and got far to near halfway of finishing it.</td>
   </tr>
 </table>
 
@@ -41,19 +41,19 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>I previos knowledge i had with python to make a good start on the task.</td>
+    <td>I used resources given and previous knowledge from python to make it but also tried new and different things.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>Nothing limited me because i feel like i did well with the time i was given.</td>
+    <td>I feel that not much limited my learning. I think i worked very well and did a lot for the time given to do it in.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>Next time i will finish it and maybe move on to make it even better.</td>
+    <td>Next time i will keep doing the same and finish it.</td>
   </tr>
 </table>
 
